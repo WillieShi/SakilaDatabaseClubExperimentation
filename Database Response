@@ -1,0 +1,13 @@
+	
+What is a Database?
+An accesible structured set of data on a computer. There are usually multiple operations that can be used to efficiently search and manipulate them.Examples are like Google
+
+Mention at least 5 different Types of Databases.
+Relational, Operational, Distribuited, Big Data, and key-value.
+
+What Does Relational means in the Database world?
+A database based on a relational model meaning that the way things like tables, columns, and rows are structured in way so that they are related and have elevated levels of meaning.
+
+Make a graphical representation of what you have learned.
+Sumbitted in a seperated file
+Submit it via Github
